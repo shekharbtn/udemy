@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.dice4,
                 R.drawable.dice5,
                 R.drawable.dice6};
-        
+
 
         rollButton.setOnClickListener(new View.OnClickListener() {
             @Override
